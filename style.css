@@ -5,17 +5,13 @@
 }
 
 body {
-    background-color: #FFE4E8;
-    font-family: 'Nunito', sans-serif;
-    min-height: 100vh;
+    margin: 0;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
-    background-image:
-        radial-gradient(circle at 15% 85%, #ffb3c1 0%, transparent 40%),
-        radial-gradient(circle at 85% 15%, #ff8fa3 0%, transparent 40%),
-        radial-gradient(circle at 50% 50%, #fff0f3 0%, transparent 60%);
+    background-image: url("heart-bg.jpg");
+    font-family: "Pixelify Sans", sans-serif;
 }
 
 /* Envelope Screen */
@@ -40,6 +36,14 @@ body {
     width: 200px;
     animation: pulse 1.5s infinite;
     cursor: pointer;
+}
+
+#letter-container{
+    display: none;
+    position:fixed;
+    inset: 0;
+    justify-content: center;
+    align-items: center;
 }
     
 /* Floating hearts background */
