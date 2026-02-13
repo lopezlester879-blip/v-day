@@ -1,12 +1,12 @@
 const gifStages = [
-    "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/OJI6on8gTMUAAAAj/cute-shy.gif",                         // 0 normal
+    "https://media1.tenor.com/m/O01EG5Yd1kYAAAAC/muscle-man-crying.gif",             // 1 confused
+    "https://media1.tenor.com/m/lDMve-IMXY8AAAAC/spongebob-squarepants-begging.gif", // 2 pleading
+    "https://media1.tenor.com/m/kbQv5cIBq8IAAAAC/the-office-steve-carell.gif",       // 3 sad
+    "https://media1.tenor.com/m/VXuYowyQUKsAAAAC/milk-and-mocha-bears.gif",          // 4 sadder
+    "https://media1.tenor.com/m/dV3iPK0uw7oAAAAC/shesh-uwu.gif",                     // 5 devastated
+    "https://media1.tenor.com/m/4U8nnEwEYf4AAAAd/falling-fall-to-knees.gif",         // 6 very devastated
+    "https://media1.tenor.com/m/aMw0mwywMPQAAAAC/cry-meme.gif"                       // 7 crying runaway
 ]
 
 const noMessages = [
