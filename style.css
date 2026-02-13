@@ -18,6 +18,30 @@ body {
         radial-gradient(circle at 50% 50%, #fff0f3 0%, transparent 60%);
 }
 
+/* Envelope Screen */
+#envelope-container {
+    text-align: center;
+    cursor:pointer;
+}
+
+@keyframes pulse {
+    0% {
+        transform:scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+#envelope{
+    width: 200px;
+    animation: pulse 1.5s infinite;
+    cursor: pointer;
+}
+    
 /* Floating hearts background */
 .hearts-bg {
     position: fixed;
